@@ -1,7 +1,7 @@
 ### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
 ### DATE: 09.03.2024
-### NAME: Aadheeshwar A
-### REG : 212221230001
+### NAME: Souvik kundu
+### REG : 212221230105
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ### Description:
 <div align= "justify">Cluster visitor segmentation refers to the process of grouping or categorizing visitors to a website, 
